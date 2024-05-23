@@ -33,7 +33,7 @@
 | ![image 115](https://github.com/HakSuGoDae/.github/assets/129606040/176a3168-f61b-473c-b21f-8697ce264ff3) | ![image 114](https://github.com/HakSuGoDae/.github/assets/129606040/80993327-883b-499e-885b-1e96ea2ace76)| ![image 116](https://github.com/HakSuGoDae/.github/assets/129606040/83aba4ce-47a5-401a-bfa0-175aa5b0e5bd) |
 | [@pkyung](https://github.com/pkyung) |  [@hwibaluuu](https://github.com/hwibaluuu)| [@tteokbokki-master](https://github.com/tteokbokki-master) |
 | Back-end |  Designer | Front-end |
-| 충남대학교 컴퓨터융합학부 |  충남대학교 디자인창의학부 | 충남대학교 언어학과 |
+| 충남대학교 컴퓨터융합학부 |  충남대학교 디자인창의학과 | 충남대학교 언어학과 |
 
 </div>
 
@@ -42,16 +42,10 @@
 ## 사용 기술
 
 - <h3>프론트엔드</h3>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/zustand-0000FF?style=for-the-badge&Color=0000FF">
-<img src="https://img.shields.io/badge/react query-000000?style=for-the-badge&logo=reactquery&logoColor=red">
-<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/zustand-0000FF?style=for-the-badge&Color=0000FF"> <img src="https://img.shields.io/badge/react query-000000?style=for-the-badge&logo=reactquery&logoColor=red"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 
 - <h3>백엔드</h3>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">...
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">...
 
 
 
